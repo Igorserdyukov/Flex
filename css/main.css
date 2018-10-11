@@ -33,11 +33,13 @@
 }
 
 #background {
-	flex-direction: column;
+	flex-direction: row-reverse;
+	justify-content: flex-end;
 }
 
-#pond {
-	flex-direction: column;
+#pond {	
+	flex-direction: row-reverse;
+	justify-content: flex-end;
 }
 
 .frog, .lilypad {
