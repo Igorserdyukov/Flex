@@ -33,11 +33,13 @@
 }
 
 #background {	
-	flex-flow: wrap column;
+	flex-wrap: wrap;
+	align-content: flex-start;
 }
 
 #pond {	
-	flex-flow: wrap column;	
+	flex-wrap: wrap;
+	align-content: flex-start;	
 }
 
 .frog, .lilypad {
