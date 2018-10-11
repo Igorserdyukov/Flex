@@ -67,8 +67,10 @@
 	background-image: url(../img/lilypad-red.svg);
 }
 .frog.yellow {
+	order: 20;
 	align-self: flex-end;
 }
 .lilypad.yellow {
+	order: 20;
 	align-self: flex-end;
 }
