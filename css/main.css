@@ -26,11 +26,11 @@
 }
 
 #background {
-	justify-content: flex-end;
+	justify-content: center;
 }
 
 #pond {
-	justify-content: flex-end;
+	justify-content: center;
 }
 
 .frog, .lilypad {
@@ -46,6 +46,13 @@
 
 .lilypad.green .bg {
 	background-image: url(../img/lilypad-green.svg);
+}
+.frog.yellow .bg {
+	background-image: url(../img/frog-yellow.svg);
+}
+
+.lilypad.yellow .bg {
+	background-image: url(../img/lilypad-yellow.svg);
 }
 
 .lilypad .bg, .frog .bg {
