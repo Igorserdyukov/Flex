@@ -33,11 +33,13 @@
 }
 
 #background {
-	align-items: flex-end;
+	justify-content: center;
+	align-items: center;
 }
 
 #pond {
-	align-items: flex-end;
+	justify-content: center;
+	align-items: center;
 }
 
 .frog, .lilypad {
