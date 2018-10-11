@@ -66,6 +66,9 @@
 .lilypad.red .bg {
 	background-image: url(../img/lilypad-red.svg);
 }
-.frog.red {
-	order: -60;
+.frog.yellow {
+	align-self: flex-end;
+}
+.lilypad.yellow {
+	align-self: flex-end;
 }
