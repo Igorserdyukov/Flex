@@ -34,10 +34,12 @@
 
 #background {	
 	flex-wrap: wrap;
+	flex-direction: column;
 }
 
 #pond {	
-	flex-wrap: wrap;	
+	flex-wrap: wrap;
+	flex-direction: column;	
 }
 
 .frog, .lilypad {
